@@ -1,7 +1,7 @@
 # Academia
 This repository is for all things related to Academia
 
-PROFESSORS IN DIFFERENT FIELDS IN DIFFERENT UNIVERSITIES: csrankings.org
+PROFESSORS IN DIFFERENT FIELDS IN DIFFERENT UNIVERSITIES: http://www.csrankings.org and http://www.shanghairanking.com/
 
 Undergraduate Research: https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/
 
