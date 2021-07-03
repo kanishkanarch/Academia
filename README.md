@@ -1,19 +1,8 @@
 # Academia
 This repository is for all things related to Academia
 
-PROFESSORS IN DIFFERENT FIELDS IN DIFFERENT UNIVERSITIES: http://www.csrankings.org and http://www.shanghairanking.com/
+PROFESSORS IN DIFFERENT FIELDS IN DIFFERENT UNIVERSITIES (Shared by [Prateek Garg](https://www.linkedin.com/in/prateek-garg-89579316a)): http://www.csrankings.org and http://www.shanghairanking.com/
 
-Undergraduate Research: https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/
+Undergraduate Research (by [Rajaswa Patil](https://www.linkedin.com/in/rajaswa-patil)): https://rajaswa.github.io/post/undergraduate_research_opportunity_applications/
 
-Getting international internships isn't hard than getting an Indian internship, especially if you're an undergrad.
-
-Take as many projects under CEERI profs as DELs as possible.
-
-GRE & ASSET 
-
-Cold mail format simplified - introductory para = I have done <this & that>. Include what you like to work upon. I'd like to do <this & that>.
-
-Cold mail format detailed - I have done <this & that>. Write what papers of that prof/PhD did you read, what you learnt & if you want to extend that research/make a new research out of that reading. Include what you like to work upon. I'd like to do <this & that>.
-
-BITS Emails are generally marked as Spam because of incoherent combinatin of letters & numbers. Use Personal Email rather. Also don't use mailtracker, it is also marked spam and is also not respectful to the faculty. Use Google Analytics instead.
-
+Graduate admissions both in MS & PhD (by [Sai Siddhartha Maram](https://www.linkedin.com/in/sai-siddartha-maram/)): https://www.reddit.com/r/gradadmissions/comments/octr26/the_az_for_graduate_admissions_msphd/
