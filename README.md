@@ -11,4 +11,8 @@ Undergraduate research internship guide slides (also has some important links in
 
 Undergraduate research internship and thesis guide slides (by [Naitik Khandelwal](https://www.linkedin.com/in/naitik-khandelwal-0a7758191/)): https://docs.google.com/presentation/d/1rhZoEZAFADUCu-DHcxbUzydD5rJVwlrYuno2ius4nvU/edit
 
+Abhijay bhaiya: Use SiROP for searching projects. Attach resume, CV, transcripts as a google doc and not PDF. Send two follow-up mails.
+
+Akash Chaudhary BITS Goa: [Vijay Kumar](https://www.kumarrobotics.org/) is the best professor in the world to work in Ariel Robotics.
+
 Magoosh FlashCards app, Manhattan 5LBS GRE book, Chapak scholarship didn't have any CG cutoff.
